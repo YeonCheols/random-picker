@@ -1,0 +1,9 @@
+{
+	"functions": {
+		"app/**/*.js": {
+			"runtime": "nodejs20.x"
+		}
+	},
+	"buildCommand": "pnpm run build",
+	"outputDirectory": "build"
+}
